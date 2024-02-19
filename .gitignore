@@ -8,3 +8,6 @@ description.txt
 __pycache__/
 __pycache__
 .pytest_cache
+kar.db
+/.db
+.db
